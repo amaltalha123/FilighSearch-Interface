@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\FlightSearch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\services\\flightsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\services\\flightsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\controllers\\airportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\controllers\\airportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\services\\airportsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\services\\airportsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\models\\responses\\flightofferresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\models\\responses\\flightofferresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\controllers\\flightscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\flightsearch.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\flightsearch.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\helpers\\flightfilterhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\helpers\\flightfilterhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\models\\responses\\airportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\models\\responses\\airportresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\models\\requests\\flightsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\models\\requests\\flightsearchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\services\\amadeusauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\services\\amadeusauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|c:\\users\\user\\source\\repos\\flightsearch\\flightsearch.api\\flightsearch.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D76898B4-1406-0D33-8E61-4F46C5BE8B00}|FlightSearch.Api\\FlightSearch.Api.csproj|solutionrelative:flightsearch.api\\flightsearch.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AirportsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Controllers\\AirportsController.cs",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\Controllers\\AirportsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Controllers\\AirportsController.cs",
+              "RelativeToolTip": "FlightSearch.Api\\Controllers\\AirportsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:22:25.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AirportSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Services\\AirportSearchService.cs",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\Services\\AirportSearchService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Services\\AirportSearchService.cs",
+              "RelativeToolTip": "FlightSearch.Api\\Services\\AirportSearchService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:18:09.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlightOfferResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Models\\Responses\\FlightOfferResponse.cs",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\Models\\Responses\\FlightOfferResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Models\\Responses\\FlightOfferResponse.cs",
+              "RelativeToolTip": "FlightSearch.Api\\Models\\Responses\\FlightOfferResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:14:47.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Controllers\\FlightsController.cs",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\Controllers\\FlightsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Controllers\\FlightsController.cs",
+              "RelativeToolTip": "FlightSearch.Api\\Controllers\\FlightsController.cs",
+              "ViewState": "AgIAABAAAAAAMjMzMzPzvwEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:26:29.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Services\\FlightSearchService.cs",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\Services\\FlightSearchService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Services\\FlightSearchService.cs",
+              "RelativeToolTip": "FlightSearch.Api\\Services\\FlightSearchService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAABwvQkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:20:45.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\appsettings.json",
+              "RelativeToolTip": "FlightSearch.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-19T16:44:16.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FlightSearch.Api.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\FlightSearch.Api.http",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\FlightSearch.Api.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\FlightSearch.Api.http",
+              "RelativeToolTip": "FlightSearch.Api\\FlightSearch.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-19T16:54:23.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Program.cs",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Program.cs",
+              "RelativeToolTip": "FlightSearch.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:54:31.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightFilterHelper.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Helpers\\FlightFilterHelper.cs",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\Helpers\\FlightFilterHelper.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Helpers\\FlightFilterHelper.cs",
+              "RelativeToolTip": "FlightSearch.Api\\Helpers\\FlightFilterHelper.cs",
+              "ViewState": "AgIAAC8AAACAzMzMzIwqwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:32:19.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AirportResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Models\\Responses\\AirportResponse.cs",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\Models\\Responses\\AirportResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Models\\Responses\\AirportResponse.cs",
+              "RelativeToolTip": "FlightSearch.Api\\Models\\Responses\\AirportResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:16:47.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FlightSearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Models\\Requests\\FlightSearchRequest.cs",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\Models\\Requests\\FlightSearchRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Models\\Requests\\FlightSearchRequest.cs",
+              "RelativeToolTip": "FlightSearch.Api\\Models\\Requests\\FlightSearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:12:17.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AmadeusAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Services\\AmadeusAuthService.cs",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\Services\\AmadeusAuthService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\Services\\AmadeusAuthService.cs",
+              "RelativeToolTip": "FlightSearch.Api\\Services\\AmadeusAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T16:10:10.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlightSearch.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\FlightSearch.Api.csproj",
+              "RelativeDocumentMoniker": "FlightSearch.Api\\FlightSearch.Api.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FlightSearch\\FlightSearch.Api\\FlightSearch.Api.csproj",
+              "RelativeToolTip": "FlightSearch.Api\\FlightSearch.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T15:58:44.818Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
