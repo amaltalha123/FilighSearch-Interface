@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.cache
+*.log
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Environment files
+.env
