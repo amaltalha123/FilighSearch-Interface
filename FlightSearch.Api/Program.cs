@@ -23,7 +23,12 @@ builder.Services.AddCors(options =>
 // Services
 builder.Services.AddSingleton<IAmadeusAuthService, AmadeusAuthService>();
 builder.Services.AddScoped<IFlightSearchService, FlightSearchService>();
+<<<<<<< HEAD
 builder.Services.AddScoped<IAirportSearchService, AirportSearchService>();
+=======
+builder.Services.AddScoped<IAirportSearchService, LocalAirportSearchService>();
+
+>>>>>>> backend-dotnet
 
 builder.Services.AddMemoryCache();
 

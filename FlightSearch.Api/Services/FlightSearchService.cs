@@ -3,6 +3,11 @@ using FlightSearch.Api.Models.Requests;
 using FlightSearch.Api.Models.Responses;
 using Newtonsoft.Json.Linq;
 using RestSharp;
+<<<<<<< HEAD
+=======
+using System.Globalization;
+
+>>>>>>> backend-dotnet
 
 namespace FlightSearch.Api.Services
 {
@@ -76,7 +81,16 @@ namespace FlightSearch.Api.Services
                 var flight = new FlightOfferResponse
                 {
                     Id = offer["id"]?.ToString(),
+<<<<<<< HEAD
                     Price = decimal.Parse(offer["price"]?["total"]?.ToString() ?? "0"),
+=======
+                    Price = decimal.TryParse(
+            offer["price"]?["total"]?.ToString(),
+            NumberStyles.Any,
+            CultureInfo.InvariantCulture,
+            out var p
+        ) ? p : 0m,
+>>>>>>> backend-dotnet
                     Currency = offer["price"]?["currency"]?.ToString(),
                     NumberOfBookableSeats = int.Parse(offer["numberOfBookableSeats"]?.ToString() ?? "0"),
                     ValidatingAirlineCodes = offer["validatingAirlineCodes"]?[0]?.ToString(),
@@ -102,13 +116,23 @@ namespace FlightSearch.Api.Services
                             {
                                 IataCode = segment["departure"]?["iataCode"]?.ToString(),
                                 Terminal = segment["departure"]?["terminal"]?.ToString(),
+<<<<<<< HEAD
                                 At = DateTime.Parse(segment["departure"]?["at"]?.ToString())
+=======
+                                At = DateTime.Parse(segment["departure"]?["at"]?.ToString() ?? "", null, DateTimeStyles.RoundtripKind)
+
+>>>>>>> backend-dotnet
                             },
                             Arrival = new Arrival
                             {
                                 IataCode = segment["arrival"]?["iataCode"]?.ToString(),
                                 Terminal = segment["arrival"]?["terminal"]?.ToString(),
+<<<<<<< HEAD
                                 At = DateTime.Parse(segment["arrival"]?["at"]?.ToString())
+=======
+                                At = DateTime.Parse(segment["departure"]?["at"]?.ToString() ?? "", null, DateTimeStyles.RoundtripKind)
+
+>>>>>>> backend-dotnet
                             },
                             CarrierCode = segment["carrierCode"]?.ToString(),
                             FlightNumber = segment["number"]?.ToString(),

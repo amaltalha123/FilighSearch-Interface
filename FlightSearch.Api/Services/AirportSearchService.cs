@@ -32,10 +32,24 @@ namespace FlightSearch.Api.Services
             request.AddHeader("Authorization", $"Bearer {token}");
             request.AddParameter("subType", "AIRPORT,CITY");
             request.AddParameter("keyword", keyword);
+<<<<<<< HEAD
             request.AddParameter("page[limit]", 30);
 
             var response = await client.ExecuteAsync(request);
 
+=======
+
+            request.AddParameter("page[limit]", 30);
+
+            Console.WriteLine("AMADEUS REQUEST => " + client.BuildUri(request));
+
+            var response = await client.ExecuteAsync(request);
+
+            Console.WriteLine("AMADEUS STATUS => " + response.StatusCode);
+            Console.WriteLine("AMADEUS BODY => " + response.Content);
+
+
+>>>>>>> backend-dotnet
             if (!response.IsSuccessful)
             {
                 throw new Exception($"Erreur de recherche d'aéroports: {response.Content}");
